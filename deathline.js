@@ -1,4 +1,9 @@
-(function($) {
+/*
+	jquery plugin 'deathline'
+	version 1.0
+	author: orthener@i.ua
+*/
+;(function($) {
 	
 	$.fn.deathline = function(params) {
 		var defaults = {
